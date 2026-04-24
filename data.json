@@ -1,12 +1,12 @@
 {
   "profile": {
-    "name": "T U Z H I 🥀",
-    "username": "tuzhicodes",
-    "nickname": "TuZhi Codes",
+    "name": "⚡ V O L T ⚡",
+    "username": "voltempire",
+    "nickname": "Volt",
     "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHXDSo69quh8j6IsBuJ4zIW4yyQ3EFhlqVCkdTCA20DFp5rQuBbcY9EXBWD_1ATGvH0XDRiDU4DRXQy12P9EpexR2lEzXDF9RmzMnn1ti8ZNGIBJPIllIqY9vcv4u5WFYiK4dgWN7N9TyW7oy7KLaVT8LIkRfnLBr5IAfhnPiNop-rQLkz5gNHcKhyl-QO/s1024/file_00000000df18720881374740bf634620.png",
     "banner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPe_P3kVBwu8Z5WdZxDRFgce6ylIBVIYRfcpuhGVrG9tShMJWerTMU8goc3OEtpA5Zs-P8Oh832Vb6en1BCM6rqMdT4jm9KtFZv3bgmOJYp6Knq6TQ_uV9pvDhA0XC2ponyB4rqztXOb2BEe41R3o77T8m5Lh6JS73H2_e5kOd7ND_SajWMswzwgmyqhtr/s736/229f824d9c404edc56b7fd1efe9a4df9_1.jpg",
     "status": {
-      "text": "I Am TuZhi Codes ♥️",
+      "text": "I Am ⚡VOLT⚡",
       "type": "dnd"
     },
     "badges": [
@@ -41,10 +41,10 @@
         "color": "#ff6b9d"
       },
       {
-        "name": "Server Boosting",
+        "name": "volt",
         "image": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
         "color": "#3498db"
-      }
+      },
     ],
     "buttons": [
       {
@@ -75,10 +75,17 @@
         "gradient": ["#ff0000", "#cc0000"],
         "glow": "rgba(255,0,0,0.35)"
       }
+      {
+        "name": "VoltEmpire",
+        "link": "https://youtube.com/@volt1empire?si=H4eTPrgIbholCVzu",
+        "icon": "fab fa-Discord",
+        "gradient": ["#ff0000", "#cc0000"],
+        "glow": "rgba(255,0,0,0.35)"
+      }
     ],
     
     "about": "🐰 A Dreamer Who Never Sleeps !! 🐰\nDeveloper | Gamer | Content Creator",
     "decoration": { "file": "rainbow-ring" },
-    "footer": "© 2025 Made with ❤️ TuZhi Codes"
+    "footer": "© 2025 Made with ⚡VOLT⚡"
   }
 }
